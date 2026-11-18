@@ -35,7 +35,7 @@
     1.0.0 (2026-08-31) - Первоначальная версия
     
 .LINK
-    https://github.com/aseryakov-rgs/scripts/AutoBackupShadowStorage1c.ps1
+    https://github.com/aseryakov-rgs/AutoBackupShadowStorage1c
 
 #>
 #endregion
